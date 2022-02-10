@@ -7,7 +7,7 @@
     "@ag-grid-community/core": "22.0.0",
     "@ag-grid-community/react": "22.0.0",
     "@ag-grid-enterprise/all-modules": "^22.1.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "16.11.0",
     "react-dom": "16.11.0"
   },
